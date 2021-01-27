@@ -1,2 +1,2 @@
-# First-React-Test
-These were my first attempts at creating very simple React apps
+# My First React Attempts
+These are the first two very simple React applications I made after learning the language.
